@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-labelledby="title desc">
+  <title id="title">Community-owned AI network</title>
+  <desc id="desc">A central AI identity node connected to community wallets instead of a corporate tower.</desc>
+  <rect width="640" height="360" fill="#edf1e6"/>
+  <rect x="0" y="0" width="640" height="360" fill="#dfe8d7"/>
+  <g fill="none" stroke="#141414" stroke-width="6" stroke-linecap="square" stroke-linejoin="round">
+    <path d="M96 284h448"/>
+    <path d="M126 284V92h108v192"/>
+    <path d="M406 284V92h108v192" stroke-dasharray="14 12" opacity=".55"/>
+    <path d="M210 214l92-52 126 58"/>
+  </g>
+  <g fill="#366f39">
+    <rect x="143" y="124" width="24" height="24"/>
+    <rect x="191" y="124" width="24" height="24"/>
+    <rect x="143" y="174" width="72" height="16"/>
+    <rect x="426" y="124" width="68" height="18" opacity=".45"/>
+    <rect x="426" y="164" width="68" height="18" opacity=".45"/>
+    <rect x="426" y="204" width="68" height="18" opacity=".45"/>
+  </g>
+  <g>
+    <rect x="266" y="112" width="120" height="104" fill="#edf1e6" stroke="#141414" stroke-width="6"/>
+    <path d="M292 138h68M292 164h52M292 190h76" stroke="#141414" stroke-width="6"/>
+    <rect x="344" y="130" width="26" height="26" fill="#366f39"/>
+  </g>
+  <g fill="#edf1e6" stroke="#141414" stroke-width="5">
+    <rect x="86" y="246" width="54" height="38"/>
+    <rect x="188" y="246" width="54" height="38"/>
+    <rect x="400" y="246" width="54" height="38"/>
+    <rect x="502" y="246" width="54" height="38"/>
+  </g>
+  <text x="88" y="54" fill="#141414" font-family="Courier New, monospace" font-size="28" font-weight="700">NOT PLATFORM PROPERTY</text>
+</svg>

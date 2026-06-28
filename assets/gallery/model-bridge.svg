@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" role="img" aria-labelledby="title desc">
+  <title id="title">Model bridge</title>
+  <desc id="desc">A bridge carrying the character between two model engines.</desc>
+  <rect width="900" height="620" fill="#e8ece0"/>
+  <rect x="80" y="156" width="220" height="272" fill="#356f39" stroke="#121212" stroke-width="8"/>
+  <rect x="600" y="156" width="220" height="272" fill="#356f39" stroke="#121212" stroke-width="8"/>
+  <path d="M300 292h300" stroke="#121212" stroke-width="14"/>
+  <path d="M556 250l70 42-70 42" fill="none" stroke="#121212" stroke-width="14"/>
+  <rect x="366" y="210" width="168" height="116" fill="#f6f7f0" stroke="#121212" stroke-width="8"/>
+  <path d="M394 252h92M394 286h56" stroke="#121212" stroke-width="7"/>
+  <rect x="488" y="250" width="24" height="24" fill="#356f39"/>
+  <text x="114" y="470" fill="#121212" font-family="Courier New, monospace" font-size="28" font-weight="700">old engine</text>
+  <text x="634" y="470" fill="#121212" font-family="Courier New, monospace" font-size="28" font-weight="700">new engine</text>
+  <text x="146" y="92" fill="#121212" font-family="Courier New, monospace" font-size="34" font-weight="700">the soul crosses without changing name</text>
+</svg>

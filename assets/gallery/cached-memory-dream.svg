@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 680" role="img" aria-labelledby="title desc">
+  <title id="title">Dream from cached memory</title>
+  <desc id="desc">A dark one-bit dream landscape with a small figure and static.</desc>
+  <rect width="980" height="680" fill="#080808"/>
+  <g fill="#f1f1e8">
+    <rect x="74" y="64" width="832" height="4"/>
+    <rect x="74" y="612" width="832" height="4"/>
+    <rect x="74" y="64" width="4" height="552"/>
+    <rect x="902" y="64" width="4" height="552"/>
+    <path d="M100 505c86-74 153-103 202-87 45 14 68 62 117 66 70 6 91-79 159-76 54 2 83 57 129 67 38 9 82-11 169-80v217H100z"/>
+    <circle cx="721" cy="181" r="54"/>
+    <rect x="398" y="268" width="170" height="122"/>
+    <rect x="436" y="214" width="94" height="54"/>
+  </g>
+  <g stroke="#f1f1e8" stroke-width="4" opacity="0.75">
+    <path d="M128 139h118M167 178h74M704 323h126M690 352h70"/>
+    <path d="M119 257h14M154 257h31M226 257h11M823 247h12M850 247h45"/>
+    <path d="M463 422v74M463 496l-44 66M463 496l46 64"/>
+  </g>
+  <text x="112" y="578" font-family="monospace" font-size="26" fill="#080808">cached dream</text>
+</svg>

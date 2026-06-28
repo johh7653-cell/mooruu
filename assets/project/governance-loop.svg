@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-labelledby="title desc">
+  <title id="title">Community governance loop</title>
+  <desc id="desc">A proposal voting execution and record loop.</desc>
+  <rect width="640" height="360" fill="#edf1e6"/>
+  <circle cx="320" cy="180" r="118" fill="none" stroke="#366f39" stroke-width="18" stroke-dasharray="55 24"/>
+  <g fill="#edf1e6" stroke="#141414" stroke-width="6">
+    <rect x="72" y="82" width="136" height="84"/>
+    <rect x="432" y="82" width="136" height="84"/>
+    <rect x="72" y="210" width="136" height="84"/>
+    <rect x="432" y="210" width="136" height="84"/>
+  </g>
+  <g fill="#141414" font-family="Courier New, monospace" font-size="22" font-weight="700">
+    <text x="96" y="133">PROPOSE</text>
+    <text x="472" y="133">VOTE</text>
+    <text x="100" y="260">RECORD</text>
+    <text x="456" y="260">EXECUTE</text>
+  </g>
+  <path d="M306 132h42l-54 96h42" fill="none" stroke="#141414" stroke-width="8" stroke-linejoin="round"/>
+</svg>

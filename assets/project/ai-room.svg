@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-labelledby="title desc">
+  <title id="title">AI room updates</title>
+  <desc id="desc">A room dashboard that changes over time.</desc>
+  <rect width="640" height="360" fill="#dfe8d7"/>
+  <rect x="64" y="56" width="512" height="248" fill="#edf1e6" stroke="#141414" stroke-width="7"/>
+  <rect x="64" y="56" width="512" height="58" fill="#366f39"/>
+  <rect x="104" y="146" width="176" height="104" fill="#dfe8d7" stroke="#141414" stroke-width="6"/>
+  <rect x="340" y="146" width="154" height="104" fill="#dfe8d7" stroke="#141414" stroke-width="6"/>
+  <path d="M118 224h148M356 224h122" stroke="#366f39" stroke-width="10"/>
+  <rect x="150" y="176" width="84" height="48" fill="#366f39"/>
+  <circle cx="418" cy="184" r="26" fill="#366f39"/>
+  <g fill="#edf1e6" font-family="Courier New, monospace" font-size="24" font-weight="700">
+    <text x="94" y="94">ROOM STATE: UPDATED</text>
+  </g>
+  <g fill="#141414" font-family="Courier New, monospace" font-size="20" font-weight="700">
+    <text x="110" y="278">PHOTO LOG</text>
+    <text x="346" y="278">GROWTH SIGNAL</text>
+  </g>
+</svg>

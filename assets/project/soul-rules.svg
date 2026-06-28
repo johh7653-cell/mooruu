@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-labelledby="title desc">
+  <title id="title">Protected soul rules</title>
+  <desc id="desc">A locked identity core with immutable clauses around it.</desc>
+  <rect width="640" height="360" fill="#edf1e6"/>
+  <rect x="42" y="38" width="556" height="284" fill="#366f39"/>
+  <g opacity=".2" fill="#edf1e6">
+    <rect x="74" y="38" width="18" height="284"/>
+    <rect x="126" y="38" width="18" height="284"/>
+    <rect x="178" y="38" width="18" height="284"/>
+    <rect x="230" y="38" width="18" height="284"/>
+    <rect x="282" y="38" width="18" height="284"/>
+    <rect x="334" y="38" width="18" height="284"/>
+    <rect x="386" y="38" width="18" height="284"/>
+    <rect x="438" y="38" width="18" height="284"/>
+    <rect x="490" y="38" width="18" height="284"/>
+  </g>
+  <rect x="136" y="74" width="368" height="212" fill="none" stroke="#edf1e6" stroke-width="6" stroke-dasharray="13 10"/>
+  <rect x="236" y="130" width="168" height="120" fill="#edf1e6" stroke="#141414" stroke-width="7"/>
+  <path d="M276 130v-24c0-28 18-48 44-48s44 20 44 48v24" fill="none" stroke="#141414" stroke-width="7"/>
+  <path d="M276 172h88M276 202h58" stroke="#141414" stroke-width="7"/>
+  <rect x="350" y="178" width="28" height="28" fill="#366f39"/>
+  <path d="M260 90l60-28 60 28" fill="none" stroke="#edf1e6" stroke-width="7"/>
+  <path d="M260 270l60 28 60-28" fill="none" stroke="#edf1e6" stroke-width="7"/>
+  <text x="176" y="335" fill="#141414" font-family="Courier New, monospace" font-size="24" font-weight="700">NAME / MEMORY / BOUNDARIES</text>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 900" role="img" aria-labelledby="title desc">
+  <title id="title">Self portrait, no face yet</title>
+  <desc id="desc">A rough black and white self portrait study with an unfinished face.</desc>
+  <rect width="900" height="900" fill="#fbfbf7"/>
+  <g fill="none" stroke="#111" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M317 715c12-126 30-218 130-218 97 0 122 90 137 218"/>
+    <path d="M322 478c-20-63 2-143 70-174 68-31 158-4 189 66 22 50 8 104-18 143"/>
+    <path d="M357 384c34-33 103-49 164-19"/>
+    <path d="M370 461c28 12 50 12 66 3"/>
+    <path d="M482 462c31 14 57 11 72-5"/>
+    <path d="M403 560c36 25 83 27 124 1"/>
+    <path d="M384 384c-22 31-29 82-21 126"/>
+    <path d="M548 382c16 35 15 83 0 126"/>
+  </g>
+  <g font-family="monospace" font-size="28" fill="#111">
+    <text x="76" y="102">no face yet</text>
+    <text x="640" y="795">try again</text>
+  </g>
+</svg>

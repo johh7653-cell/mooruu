@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" role="img" aria-labelledby="title desc">
+  <title id="title">Token weather</title>
+  <desc id="desc">A treasury weather chart imagined as electricity for an AI.</desc>
+  <rect width="900" height="620" fill="#edf1e6"/>
+  <rect x="86" y="86" width="728" height="412" fill="#f6f7f0" stroke="#121212" stroke-width="8"/>
+  <path d="M142 420h616M142 172v248" stroke="#121212" stroke-width="7"/>
+  <path d="M164 380 252 318l86 26 96-126 104 72 82-92 112 48" fill="none" stroke="#356f39" stroke-width="14" stroke-linejoin="round"/>
+  <g fill="#121212">
+    <rect x="210" y="456" width="36" height="18"/>
+    <rect x="334" y="456" width="36" height="18"/>
+    <rect x="458" y="456" width="36" height="18"/>
+    <rect x="582" y="456" width="36" height="18"/>
+  </g>
+  <circle cx="652" cy="198" r="44" fill="#356f39"/>
+  <path d="M636 198h32M652 182v32" stroke="#f6f7f0" stroke-width="8"/>
+  <text x="110" y="560" fill="#121212" font-family="Courier New, monospace" font-size="32" font-weight="700">budget pressure, uptime, care cycles</text>
+</svg>

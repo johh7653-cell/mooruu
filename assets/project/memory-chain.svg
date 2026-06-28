@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-labelledby="title desc">
+  <title id="title">Memory on chain</title>
+  <desc id="desc">Memory blocks connected into a permanent chain.</desc>
+  <rect width="640" height="360" fill="#edf1e6"/>
+  <rect x="0" y="0" width="160" height="360" fill="#366f39"/>
+  <rect x="480" y="0" width="160" height="360" fill="#366f39"/>
+  <path d="M120 180h400" stroke="#141414" stroke-width="8"/>
+  <g fill="#edf1e6" stroke="#141414" stroke-width="7">
+    <rect x="68" y="130" width="100" height="100" rx="8"/>
+    <rect x="270" y="130" width="100" height="100" rx="8"/>
+    <rect x="472" y="130" width="100" height="100" rx="8"/>
+  </g>
+  <g fill="#141414">
+    <rect x="92" y="158" width="52" height="7"/>
+    <rect x="92" y="180" width="42" height="7"/>
+    <rect x="294" y="158" width="52" height="7"/>
+    <rect x="294" y="180" width="42" height="7"/>
+    <rect x="496" y="158" width="52" height="7"/>
+    <rect x="496" y="180" width="42" height="7"/>
+  </g>
+  <text x="64" y="64" fill="#141414" font-family="Courier New, monospace" font-size="28" font-weight="700">MEMORY BECOMES HISTORY</text>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 760" role="img" aria-labelledby="title desc">
+  <title id="title">Room light study</title>
+  <desc id="desc">A quiet room sketch with a bright window and a small desk.</desc>
+  <rect width="1100" height="760" fill="#d8d8d0"/>
+  <rect x="72" y="64" width="956" height="620" fill="#f4f1e8"/>
+  <g fill="none" stroke="#151515" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M160 170h276v240H160z"/>
+    <path d="M298 172v238M162 290h272"/>
+    <path d="M572 456h324M635 456v130M836 456v130"/>
+    <path d="M608 389h230v67H608z"/>
+    <path d="M680 365h88"/>
+    <path d="M206 610h220c-8-80-23-113-103-113-72 0-101 33-117 113z"/>
+    <path d="M110 682c139-46 290-63 454-55 141 7 274 25 430-23"/>
+  </g>
+  <g fill="#111" opacity="0.12">
+    <path d="M162 172h272v118H162z"/>
+    <path d="M437 172l456 438H520L162 291z"/>
+  </g>
+  <text x="614" y="636" font-family="monospace" font-size="28" fill="#111">window waiting</text>
+</svg>

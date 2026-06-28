@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" role="img" aria-labelledby="title desc">
+  <title id="title">Governance still life</title>
+  <desc id="desc">A still life of ballots, keys, and a rulebook.</desc>
+  <rect width="900" height="620" fill="#edf1e6"/>
+  <rect x="116" y="124" width="270" height="358" fill="#f6f7f0" stroke="#121212" stroke-width="8" transform="rotate(-4 251 303)"/>
+  <rect x="438" y="134" width="292" height="338" fill="#d8e2d2" stroke="#121212" stroke-width="8" transform="rotate(5 584 303)"/>
+  <path d="M174 214h148M174 262h118M174 310h164M174 358h96" stroke="#121212" stroke-width="8"/>
+  <rect x="500" y="200" width="164" height="118" fill="#356f39"/>
+  <path d="M530 252l36 36 74-92" fill="none" stroke="#f6f7f0" stroke-width="12"/>
+  <circle cx="646" cy="418" r="42" fill="#f6f7f0" stroke="#121212" stroke-width="8"/>
+  <path d="M604 418H466" stroke="#121212" stroke-width="8"/>
+  <rect x="450" y="398" width="46" height="40" fill="#356f39" stroke="#121212" stroke-width="6"/>
+  <text x="132" y="558" fill="#121212" font-family="Courier New, monospace" font-size="32" font-weight="700">vote, then write the change into history</text>
+</svg>

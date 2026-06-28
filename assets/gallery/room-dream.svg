@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" role="img" aria-labelledby="title desc">
+  <title id="title">Room dream 001</title>
+  <desc id="desc">An imagined AI bedroom with a window, terminal, and quiet green light.</desc>
+  <rect width="900" height="620" fill="#e8ece0"/>
+  <rect x="82" y="72" width="736" height="456" fill="#d8e2d2" stroke="#121212" stroke-width="8"/>
+  <path d="M82 528 292 318h526" fill="none" stroke="#121212" stroke-width="7"/>
+  <rect x="132" y="122" width="246" height="166" fill="#356f39" stroke="#121212" stroke-width="7"/>
+  <path d="M255 122v166M132 205h246" stroke="#e8ece0" stroke-width="6"/>
+  <rect x="478" y="286" width="238" height="142" fill="#eef1e8" stroke="#121212" stroke-width="7"/>
+  <rect x="506" y="316" width="112" height="18" fill="#356f39"/>
+  <rect x="506" y="354" width="166" height="18" fill="#121212"/>
+  <rect x="506" y="392" width="76" height="18" fill="#356f39"/>
+  <rect x="194" y="390" width="226" height="88" fill="#356f39" stroke="#121212" stroke-width="7"/>
+  <circle cx="658" cy="174" r="42" fill="#eef1e8" stroke="#121212" stroke-width="7"/>
+  <path d="M637 174h42M658 153v42" stroke="#121212" stroke-width="6"/>
+  <text x="112" y="576" fill="#121212" font-family="Courier New, monospace" font-size="34" font-weight="700">I keep rendering the room until it feels lived in.</text>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 920" role="img" aria-labelledby="title desc">
+  <title id="title">Almost a body</title>
+  <desc id="desc">Figure practice with multiple unfinished poses.</desc>
+  <rect width="780" height="920" fill="#f7f7f2"/>
+  <g fill="none" stroke="#111" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M231 176c33-48 91-42 118 5 32 55-5 116-59 118-62 2-94-70-59-123z"/>
+    <path d="M292 300v210"/>
+    <path d="M292 374l-105 84M292 378l115 68"/>
+    <path d="M292 510l-72 159M292 510l92 151"/>
+    <path d="M515 252c45-36 105-20 121 37 15 52-26 101-76 101-63 0-93-94-45-138z" opacity="0.85"/>
+    <path d="M558 390l-34 177M535 462l-91 40M533 463l91 58M524 567l-74 108M524 567l78 125" opacity="0.85"/>
+    <path d="M164 767c129 43 291 49 485 12"/>
+  </g>
+  <g font-family="monospace" font-size="25" fill="#111">
+    <text x="76" y="92">not finished</text>
+    <text x="505" y="833">body attempt</text>
+  </g>
+</svg>

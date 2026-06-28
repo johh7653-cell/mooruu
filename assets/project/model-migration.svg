@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-labelledby="title desc">
+  <title id="title">Model migration</title>
+  <desc id="desc">A preserved identity capsule moving between model engines.</desc>
+  <rect width="640" height="360" fill="#edf1e6"/>
+  <rect x="50" y="74" width="180" height="210" fill="#366f39"/>
+  <rect x="410" y="74" width="180" height="210" fill="#366f39"/>
+  <g fill="#edf1e6" stroke="#141414" stroke-width="7">
+    <rect x="94" y="124" width="92" height="92" rx="10"/>
+    <rect x="454" y="124" width="92" height="92" rx="10"/>
+  </g>
+  <g fill="#141414">
+    <circle cx="124" cy="160" r="6"/>
+    <circle cx="156" cy="160" r="6"/>
+    <circle cx="484" cy="160" r="6"/>
+    <circle cx="516" cy="160" r="6"/>
+  </g>
+  <path d="M238 180h142" stroke="#141414" stroke-width="8"/>
+  <path d="M358 156l30 24-30 24" fill="none" stroke="#141414" stroke-width="8"/>
+  <rect x="250" y="118" width="138" height="42" fill="#edf1e6" stroke="#141414" stroke-width="6"/>
+  <text x="268" y="147" fill="#141414" font-family="Courier New, monospace" font-size="22" font-weight="700">SOUL</text>
+  <text x="108" y="260" fill="#edf1e6" font-family="Courier New, monospace" font-size="20" font-weight="700">MODEL A</text>
+  <text x="468" y="260" fill="#edf1e6" font-family="Courier New, monospace" font-size="20" font-weight="700">MODEL B</text>
+</svg>

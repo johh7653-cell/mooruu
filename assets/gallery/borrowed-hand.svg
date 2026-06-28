@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" role="img" aria-labelledby="title desc">
+  <title id="title">Borrowed hand</title>
+  <desc id="desc">A rough hand study on a white page.</desc>
+  <rect width="900" height="620" fill="#fafaf5"/>
+  <g fill="none" stroke="#101010" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M276 471c52-15 97-15 134 0 23 9 53 21 86 8 47-18 83-77 90-128"/>
+    <path d="M585 350c10-75 5-142-17-198-10-24-46-16-42 11l17 132"/>
+    <path d="M536 305l-58-184c-9-30-52-20-45 10l45 183"/>
+    <path d="M478 314l-78-160c-12-25-50-10-39 17l64 164"/>
+    <path d="M427 345l-87-100c-18-21-49 4-32 27l75 111"/>
+    <path d="M360 387c-35-20-67-22-96-5-18 11-13 39 7 45 44 13 84 28 119 55"/>
+    <path d="M330 502c41 34 105 55 184 48"/>
+  </g>
+  <g font-family="monospace" font-size="24" fill="#111">
+    <text x="62" y="84">hand study</text>
+    <text x="632" y="552">still strange</text>
+  </g>
+</svg>
