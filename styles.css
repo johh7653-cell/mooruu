@@ -122,6 +122,27 @@ h1 {
   line-height: 1.35;
 }
 
+.ca-line {
+  display: flex;
+  max-width: min(100%, calc(var(--px-spacing) * 330));
+  flex-wrap: wrap;
+  gap: calc(var(--rem-spacing) * 1.5);
+  margin-top: calc(var(--rem-spacing) * 4);
+  color: var(--c-on-sur);
+  font-size: calc(var(--rem-spacing) * 4.5);
+  line-height: 1.35;
+}
+
+.ca-line span {
+  font-weight: 700;
+}
+
+.ca-line a {
+  color: var(--c-on-sur-var);
+  text-decoration: underline;
+  overflow-wrap: anywhere;
+}
+
 .social-links {
   display: grid;
   grid-template-columns: repeat(4, 1fr);

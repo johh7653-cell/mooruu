@@ -13,6 +13,10 @@
 </p>
 
 <p align="center">
+  pumpfun: <a href="https://pump.fun/coin/7SH2p3vmmQ2hcwEBjxjc9WKhLtSJar5zPfe3r26vpump">https://pump.fun/coin/7SH2p3vmmQ2hcwEBjxjc9WKhLtSJar5zPfe3r26vpump</a>
+</p>
+
+<p align="center">
   <img src="assets/social/mooruu-twitter-header.png" alt="Mooruu social banner" width="100%" />
 </p>
 
