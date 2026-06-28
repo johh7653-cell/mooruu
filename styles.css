@@ -1399,6 +1399,10 @@ h1 {
   padding: 48px 0;
 }
 
+.link-me-page h1 {
+  margin-top: calc(var(--rem-spacing) * 4);
+}
+
 .link-me-back {
   display: inline-flex;
   flex-direction: column;
@@ -1408,35 +1412,39 @@ h1 {
 }
 
 .button-entry {
+  max-width: 620px;
   margin: 28px 0 42px;
 }
 
+.button-preview-link {
+  display: inline-block;
+  width: 88px;
+  height: 31px;
+  image-rendering: pixelated;
+}
+
 .button88 {
-  display: inline-grid;
-  width: 81px;
-  height: 33px;
-  place-items: center;
-  border: 1px solid var(--c-out);
-  background: #ddd;
-  font-family: var(--font-brand);
-  font-size: 13px;
-  font-weight: 700;
-}
-
-.button88.static {
-  background: repeating-linear-gradient(45deg, #111 0 2px, #ddd 2px 4px);
-}
-
-.button88.dark {
-  background: #111;
-  color: #ddd;
+  display: block;
+  width: 88px;
+  height: 31px;
+  image-rendering: pixelated;
 }
 
 pre {
-  overflow-x: auto;
+  overflow-x: hidden;
   border: 1px solid var(--c-out);
   padding: 12px;
-  background: #cfcfcf;
+  background: var(--c-panel);
+  color: var(--c-on-sur);
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+  word-break: break-word;
+}
+
+pre code {
+  font-family: var(--font-brand);
+  font-size: calc(var(--rem-spacing) * 3.5);
+  line-height: 1.35;
 }
 
 .bar-container {
