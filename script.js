@@ -42,11 +42,11 @@ class CursorSprite {
   constructor(pointX, pointY, image) {
     this.pointX = pointX;
     this.pointY = pointY;
-    this.darkImage = image;
-    this.lightImage = this.makeLightImage(image);
+    this.darkImage = this.tintImage(image, [255, 122, 26], [16, 8, 4]);
+    this.lightImage = this.tintImage(image, [255, 122, 26], [16, 8, 4]);
   }
 
-  makeLightImage(image) {
+  tintImage(image, lightColor, darkColor) {
     const buffer = document.createElement("canvas");
     const bufferContext = buffer.getContext("2d");
     if (!bufferContext) return image;
@@ -60,20 +60,20 @@ class CursorSprite {
       for (let index = 0; index < data.data.length; index += 4) {
         const red = data.data[index];
         if (red > 100) {
-          data.data[index] = 13;
-          data.data[index + 1] = 13;
-          data.data[index + 2] = 13;
+          data.data[index] = lightColor[0];
+          data.data[index + 1] = lightColor[1];
+          data.data[index + 2] = lightColor[2];
         } else {
-          data.data[index] = 217;
-          data.data[index + 1] = 217;
-          data.data[index + 2] = 217;
+          data.data[index] = darkColor[0];
+          data.data[index + 1] = darkColor[1];
+          data.data[index + 2] = darkColor[2];
         }
       }
 
       bufferContext.putImageData(data, 0, 0);
-      const lightImage = new Image();
-      lightImage.src = buffer.toDataURL();
-      return lightImage;
+      const tintedImage = new Image();
+      tintedImage.src = buffer.toDataURL();
+      return tintedImage;
     } catch {
       return image;
     }
