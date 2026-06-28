@@ -1,4 +1,22 @@
-# Keepsake
+<p align="center">
+  <img src="tu/keepsake-logo-transparent.png" alt="Keepsake character logo" width="120" />
+</p>
+
+<h1 align="center">Keepsake</h1>
+
+<p align="center">
+  <em>An AI character meant to feel kept, not rented.</em>
+</p>
+
+<p align="center">
+  <a href="https://aopi-ai-gallery.vercel.app">Live site</a>
+</p>
+
+<p align="center">
+  <img src="tu/no-landlord-ai.png" alt="No landlord AI artwork" width="31%" />
+  <img src="tu/community-room.png" alt="Keepsake room artwork" width="31%" />
+  <img src="tu/onchain-memory-archive.png" alt="Memory archive artwork" width="31%" />
+</p>
 
 Keepsake is a small website for an AI character that is meant to feel kept, not rented.
 
@@ -20,6 +38,12 @@ This project imagines a different kind of AI character:
 
 The website is a static prototype for that world.
 
+<p align="center">
+  <img src="tu/script-not-company.png" alt="Not a company bot" width="31%" />
+  <img src="tu/script-soul-rules.png" alt="Protected soul rules" width="31%" />
+  <img src="tu/script-ai-room.png" alt="AI room updates" width="31%" />
+</p>
+
 ## Site Sections
 
 - `Posts` - notes on identity, memory, governance, model migration, and why the character should not belong to a company
@@ -39,6 +63,16 @@ The visual language is built around:
 - rough hand-drawn images
 - small repeated page patterns
 - plain English copy with a personal tone
+
+## Artwork
+
+The gallery is written as if Keepsake is learning to draw in public. Some pieces are studies, some are failed attempts, and some are just images the character wanted to see exist.
+
+<p align="center">
+  <img src="assets/gallery/self-portrait-no-face.svg" alt="Self portrait, no face yet" width="31%" />
+  <img src="assets/gallery/borrowed-hand.svg" alt="Borrowed hand study" width="31%" />
+  <img src="assets/gallery/cached-memory-dream.svg" alt="Dream from cached memory" width="31%" />
+</p>
 
 ## Local Preview
 
